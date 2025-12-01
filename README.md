@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Rolando Muñoz — Portfolio Website
 
 A clean, responsive personal portfolio site built with **HTML + Tailwind CSS (CDN)** and a little **JavaScript**. Includes a fixed navbar, mobile menu, dark mode toggle, portfolio section, and a contact section that can use either a simple **mailto:** flow or a form service (ex: Web3Forms).
@@ -30,8 +30,6 @@ A clean, responsive personal portfolio site built with **HTML + Tailwind CSS (CD
 ---
 
 ## Project Structure
-```text
-.
 ├─ index.html
 ├─ script.js
 ├─ tailwind.config.js
@@ -39,4 +37,3 @@ A clean, responsive personal portfolio site built with **HTML + Tailwind CSS (CD
    ├─ logo.png
    ├─ profile-img.png
    └─ ...
--->
