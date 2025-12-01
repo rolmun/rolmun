@@ -16,7 +16,7 @@ Feature	Status
 📌 Fixed navbar with anchors	✔ Smooth navigation
 📱 Mobile slide-in menu	✔ opens/closes with JS
 🗂 Portfolio grid	✔ hover-based project cards
-📬 Contact section	✔ supports mailto + Web3Forms
+📬 Contact section	✔ supports Web3Forms
 📄 Resume Download Button	✔ with PDF export
 
 All features are powered by HTML + Tailwind utility classes inside the markup, with small JS enhancements.
