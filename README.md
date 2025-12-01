@@ -6,7 +6,7 @@
 A clean, responsive personal portfolio site built with **HTML + Tailwind CSS (CDN)** and a little **JavaScript**. Includes a fixed navbar, mobile menu, dark mode toggle, portfolio section, and a contact section that can use either a simple **mailto:** flow or a form service (ex: Web3Forms).
 
 ## Live Demo
-- Add your GitHub Pages URL here: `https://<your-username>.github.io/<repo-name>/`
+- Add your GitHub Pages URL here: `https://rolmun.github.io/rolmun/`
 
 ---
 
